@@ -1,4 +1,3 @@
-// App.js
 import "./App.css";
 import AppRouter from "./AppRouter";
 import Header from "./components/atoms/Header";
